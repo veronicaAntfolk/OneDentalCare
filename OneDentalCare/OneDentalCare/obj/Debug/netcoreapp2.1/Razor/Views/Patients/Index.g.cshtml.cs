@@ -70,7 +70,7 @@ using OneDentalCare.Models;
             WriteLiteral("\r\n<h2>Patient List</h2>\r\n\r\n<p>\r\n    ");
             EndContext();
             BeginContext(136, 37, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "63c8eb13935d4db687a6f8fb7333ca7a", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c9a5b2c392dd443697e0470075691d6a", async() => {
                 BeginContext(159, 10, true);
                 WriteLiteral("Create New");
                 EndContext();
@@ -92,7 +92,7 @@ using OneDentalCare.Models;
             WriteLiteral("\r\n</p>\r\n\r\n");
             EndContext();
             BeginContext(183, 214, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1605ffec956a4881ac1ed4f701a7cfe7", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8ffa8af277734982a3dec1507783e46f", async() => {
                 BeginContext(234, 156, true);
                 WriteLiteral("\r\n    <p>\r\n        Search patients by birth date: <input type=\"text\" name=\"SearchString\" />\r\n        <input type=\"submit\" value=\"Filter\" />     \r\n    </p>\r\n");
                 EndContext();
@@ -246,7 +246,7 @@ using OneDentalCare.Models;
             WriteLiteral("\r\n            </td>\r\n            <td>\r\n                ");
             EndContext();
             BeginContext(1808, 53, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8fda8973e9ca4e0cb4eea118364c4707", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "baf2c97faabd428a84912a8203aea4b8", async() => {
                 BeginContext(1853, 4, true);
                 WriteLiteral("Edit");
                 EndContext();
@@ -281,7 +281,7 @@ using OneDentalCare.Models;
             WriteLiteral(" |\r\n                ");
             EndContext();
             BeginContext(1881, 59, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "320136e099db4951b67833ed5673f3da", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "569fd95d6e344a27afb3f6aaa1ef1cb8", async() => {
                 BeginContext(1929, 7, true);
                 WriteLiteral("Details");
                 EndContext();
@@ -316,7 +316,7 @@ using OneDentalCare.Models;
             WriteLiteral(" |\r\n                ");
             EndContext();
             BeginContext(1960, 57, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "031260f0a7a44b5d8870a337b9a963b6", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4fa7d74cecdd40b0abb02562c4de7a2c", async() => {
                 BeginContext(2007, 6, true);
                 WriteLiteral("Delete");
                 EndContext();

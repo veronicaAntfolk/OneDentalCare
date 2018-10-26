@@ -184,7 +184,7 @@ using OneDentalCare.Models;
             WriteLiteral("\r\n        </dd>\r\n    </dl>\r\n</div>\r\n<div>\r\n    ");
             EndContext();
             BeginContext(1257, 54, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "34f5771a2f854ba2ae6007ef5595e22d", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "166330e4ba924eecb72d509502b34992", async() => {
                 BeginContext(1303, 4, true);
                 WriteLiteral("Edit");
                 EndContext();
@@ -219,7 +219,7 @@ using OneDentalCare.Models;
             WriteLiteral(" |\r\n    ");
             EndContext();
             BeginContext(1319, 38, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "47f3915c30e542a48d3506e06660f7a9", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3aff12575be642c8b35211b43922d3fc", async() => {
                 BeginContext(1341, 12, true);
                 WriteLiteral("Back to List");
                 EndContext();
