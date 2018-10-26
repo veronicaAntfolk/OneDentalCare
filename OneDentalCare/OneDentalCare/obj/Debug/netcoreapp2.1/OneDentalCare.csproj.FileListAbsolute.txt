@@ -1,3 +1,4 @@
+
 C:\Users\veron\Desktop\Projekt\OneDentalCare\OneDentalCare\OneDentalCare\bin\Debug\netcoreapp2.1\OneDentalCare.deps.json
 C:\Users\veron\Desktop\Projekt\OneDentalCare\OneDentalCare\OneDentalCare\bin\Debug\netcoreapp2.1\OneDentalCare.runtimeconfig.json
 C:\Users\veron\Desktop\Projekt\OneDentalCare\OneDentalCare\OneDentalCare\bin\Debug\netcoreapp2.1\OneDentalCare.runtimeconfig.dev.json
@@ -30,3 +31,8 @@ C:\Users\veron\Desktop\Projekt\OneDentalCare\OneDentalCare\OneDentalCare\obj\Deb
 C:\Users\veron\Desktop\Projekt\OneDentalCare\OneDentalCare\OneDentalCare\obj\Debug\netcoreapp2.1\OneDentalCare.dll
 C:\Users\veron\Desktop\Projekt\OneDentalCare\OneDentalCare\OneDentalCare\obj\Debug\netcoreapp2.1\OneDentalCare.pdb
 C:\Users\veron\Desktop\Projekt\OneDentalCare\OneDentalCare\OneDentalCare\obj\Debug\netcoreapp2.1\OneDentalCare.csproj.CopyComplete
+C:\Users\veron\Desktop\Projekt\OneDentalCare\OneDentalCare\OneDentalCare\obj\Debug\netcoreapp2.1\Razor\Views\Patients\Create.g.cshtml.cs
+C:\Users\veron\Desktop\Projekt\OneDentalCare\OneDentalCare\OneDentalCare\obj\Debug\netcoreapp2.1\Razor\Views\Patients\Delete.g.cshtml.cs
+C:\Users\veron\Desktop\Projekt\OneDentalCare\OneDentalCare\OneDentalCare\obj\Debug\netcoreapp2.1\Razor\Views\Patients\Details.g.cshtml.cs
+C:\Users\veron\Desktop\Projekt\OneDentalCare\OneDentalCare\OneDentalCare\obj\Debug\netcoreapp2.1\Razor\Views\Patients\Edit.g.cshtml.cs
+C:\Users\veron\Desktop\Projekt\OneDentalCare\OneDentalCare\OneDentalCare\obj\Debug\netcoreapp2.1\Razor\Views\Patients\Index.g.cshtml.cs
