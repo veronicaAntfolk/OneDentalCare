@@ -19,9 +19,18 @@ namespace OneDentalCare.Controllers
         }
 
         // GET: Patients
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string searchString)
         {
-            return View(await _context.Patient.ToListAsync());
+            var patients = from p in _context.Patient select p;
+
+            if (!String.IsNullOrEmpty(searchString))
+            {
+                
+                
+                patients = patients.Where(s => s.BirthDate.ToString("yyyy-MM-dd").Equals(searchString));
+            }
+
+            return View(await patients.ToListAsync());
         }
 
         // GET: Patients/Details/5
