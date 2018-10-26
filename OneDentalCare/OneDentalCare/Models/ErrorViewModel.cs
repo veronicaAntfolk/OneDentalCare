@@ -8,4 +8,5 @@ namespace OneDentalCare.Models
 
         public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
     }
+
 }

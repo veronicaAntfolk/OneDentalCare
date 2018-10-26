@@ -1,3 +1,4 @@
+
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
@@ -5528,4 +5529,5 @@
       "hashPath": "system.xml.xpath.xdocument.4.3.0.nupkg.sha512"
     }
   }
+
 }

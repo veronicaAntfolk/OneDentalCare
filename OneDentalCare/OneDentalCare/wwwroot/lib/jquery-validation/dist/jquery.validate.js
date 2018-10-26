@@ -1,3 +1,4 @@
+
 /*!
  * jQuery Validation Plugin v1.17.0
  *
@@ -1598,4 +1599,5 @@ if ( $.ajaxPrefilter ) {
 	};
 }
 return $;
+
 }));
