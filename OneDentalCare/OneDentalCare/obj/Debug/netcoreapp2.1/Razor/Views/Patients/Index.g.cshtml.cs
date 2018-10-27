@@ -13,18 +13,18 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
-#line 1 "C:\Users\veron\Desktop\Projekt\OneDentalCare\OneDentalCare\OneDentalCare\Views\_ViewImports.cshtml"
+#line 2 "C:\Users\veron\Desktop\Projekt\OneDentalCare\OneDentalCare\OneDentalCare\Views\_ViewImports.cshtml"
 using OneDentalCare;
 
 #line default
 #line hidden
-#line 2 "C:\Users\veron\Desktop\Projekt\OneDentalCare\OneDentalCare\OneDentalCare\Views\_ViewImports.cshtml"
+#line 3 "C:\Users\veron\Desktop\Projekt\OneDentalCare\OneDentalCare\OneDentalCare\Views\_ViewImports.cshtml"
 using OneDentalCare.Models;
 
 #line default
 #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"70fc99dc09e9bcb16dc46c9ff44c9653cdc850ed", @"/Views/Patients/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"ce6de5ac3f3c027c541f4a304bee671b7e32ef93", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"b435ff0578cd79ea5cc953c1de4bac059cfac44e", @"/Views/_ViewImports.cshtml")]
     public class Views_Patients_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<IEnumerable<OneDentalCare.Models.Patient>>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("asp-action", "Create", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -70,7 +70,7 @@ using OneDentalCare.Models;
             WriteLiteral("\r\n<h2>Patient List</h2>\r\n\r\n<p>\r\n    ");
             EndContext();
             BeginContext(136, 37, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c9a5b2c392dd443697e0470075691d6a", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "000d8fc0913d4b1ca2bc9b506de14737", async() => {
                 BeginContext(159, 10, true);
                 WriteLiteral("Create New");
                 EndContext();
@@ -92,7 +92,7 @@ using OneDentalCare.Models;
             WriteLiteral("\r\n</p>\r\n\r\n");
             EndContext();
             BeginContext(183, 214, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8ffa8af277734982a3dec1507783e46f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6d2615517a044adc8df3cf0a88eaa7cf", async() => {
                 BeginContext(234, 156, true);
                 WriteLiteral("\r\n    <p>\r\n        Search patients by birth date: <input type=\"text\" name=\"SearchString\" />\r\n        <input type=\"submit\" value=\"Filter\" />     \r\n    </p>\r\n");
                 EndContext();
@@ -246,7 +246,7 @@ using OneDentalCare.Models;
             WriteLiteral("\r\n            </td>\r\n            <td>\r\n                ");
             EndContext();
             BeginContext(1808, 53, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "baf2c97faabd428a84912a8203aea4b8", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f7407e3cd1ab4cffbf19e30301d8c237", async() => {
                 BeginContext(1853, 4, true);
                 WriteLiteral("Edit");
                 EndContext();
@@ -281,7 +281,7 @@ using OneDentalCare.Models;
             WriteLiteral(" |\r\n                ");
             EndContext();
             BeginContext(1881, 59, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "569fd95d6e344a27afb3f6aaa1ef1cb8", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "74db091ea3444bc794362abf6493f78a", async() => {
                 BeginContext(1929, 7, true);
                 WriteLiteral("Details");
                 EndContext();
@@ -316,7 +316,7 @@ using OneDentalCare.Models;
             WriteLiteral(" |\r\n                ");
             EndContext();
             BeginContext(1960, 57, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4fa7d74cecdd40b0abb02562c4de7a2c", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ba09619086d24d1ba33e21294def24ef", async() => {
                 BeginContext(2007, 6, true);
                 WriteLiteral("Delete");
                 EndContext();

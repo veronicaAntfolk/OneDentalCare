@@ -1,4 +1,3 @@
-
 C:\Users\veron\Desktop\Projekt\OneDentalCare\OneDentalCare\OneDentalCare\bin\Debug\netcoreapp2.1\OneDentalCare.deps.json
 C:\Users\veron\Desktop\Projekt\OneDentalCare\OneDentalCare\OneDentalCare\bin\Debug\netcoreapp2.1\OneDentalCare.runtimeconfig.json
 C:\Users\veron\Desktop\Projekt\OneDentalCare\OneDentalCare\OneDentalCare\bin\Debug\netcoreapp2.1\OneDentalCare.runtimeconfig.dev.json
