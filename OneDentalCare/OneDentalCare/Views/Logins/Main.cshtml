@@ -1,0 +1,18 @@
+﻿@model OneDentalCare.Models.Login
+@{
+    ViewData["Title"] = "Main";
+}
+
+<h2>OneDentalCare</h2>
+
+<h4>This is the main page. Design pending...!</h4>
+
+<div>
+    @Html.DisplayNameFor(model => model.Username)
+</div>
+<div>
+    <input type="hidden" asp-for="Id" />
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

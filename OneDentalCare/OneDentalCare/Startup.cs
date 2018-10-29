@@ -35,7 +35,7 @@ namespace OneDentalCare
 
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
-
+            
             services.AddDbContext<OneDentalCareContext>(options =>
                     options.UseSqlServer(Configuration.GetConnectionString("OneDentalCareContext")));
         }
@@ -59,7 +59,7 @@ namespace OneDentalCare
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=Patients}/{action=Index}/{id?}");
+                    template: "{controller=Logins}/{action=Login}/{id?}");
             });
         }
     }

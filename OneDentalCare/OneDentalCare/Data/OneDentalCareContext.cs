@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 
 namespace OneDentalCare.Models
 {
@@ -13,6 +9,7 @@ namespace OneDentalCare.Models
         {
         }
 
-        public DbSet<OneDentalCare.Models.Patient> Patient { get; set; }
+        public DbSet<Patient> Patient { get; set; }
+        public DbSet<Login> Logins { get; set; }
     }
 }

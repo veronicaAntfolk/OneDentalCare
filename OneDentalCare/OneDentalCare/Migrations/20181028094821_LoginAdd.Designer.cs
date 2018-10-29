@@ -3,15 +3,17 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using OneDentalCare.Models;
 
 namespace OneDentalCare.Migrations
 {
     [DbContext(typeof(OneDentalCareContext))]
-    partial class OneDentalCareContextModelSnapshot : ModelSnapshot
+    [Migration("20181028094821_LoginAdd")]
+    partial class LoginAdd
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
