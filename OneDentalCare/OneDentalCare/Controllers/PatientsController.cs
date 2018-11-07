@@ -25,8 +25,7 @@ namespace OneDentalCare.Controllers
 
             if (!String.IsNullOrEmpty(searchString))
             {
-                
-                
+
                 patients = patients.Where(s => s.BirthDate.ToString("yyyy-MM-dd").Equals(searchString));
             }
 
